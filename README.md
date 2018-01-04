@@ -1,2 +1,2 @@
 # body-extractor
-An extractor to extractor the main body of an html page.
+An extractor to extract the main body of an html page.
